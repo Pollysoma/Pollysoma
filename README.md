@@ -1,11 +1,11 @@
-##Hi, I'm Polly
+## Hi, I'm Polly
 Biochemistry & Computer Science student at TUM | Bioinformatics, Deep Learning & Structural Biology Enthusiast
 
 ---
 
 ### About Me
 
-- D Bachelor's student in **Biochemistry** and **Computer Science** at [TUM](https://www.tum.de)
+- Double degree Bachelor's student in **Biochemistry** and **Computer Science** at [TUM](https://www.tum.de)
 - Passionate about **AI in drug design** and **protein modeling**
 - I love combining biology + algorithms to solve complex molecular problems
 
