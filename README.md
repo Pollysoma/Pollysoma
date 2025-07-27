@@ -7,8 +7,7 @@ Structural Biology, Deep Learning & Chemoinformatics Enthusiast
 
 - Double degree Bachelor's student in **Biochemistry** and **Computer Science** at [TUM](https://www.tum.de)
 - Student research assistant in **AI-driven antibody design project** in [Popowicz lab at HZM](https://www.helmholtz-munich.de/en/stb/research-groups/popowicz-lab)
-- Passionate about **AI in drug design** and **protein modeling**
-- I love combining biology + algorithms to solve complex molecular problems
+- Member of [BMSL](https://bmsl.org/), [med-dev](https://www.med-dev.org/) and [GDSC Munich](https://gdg.community.dev/gdg-on-campus-technical-university-of-munich-munich-germany/)
 
 ---
 
