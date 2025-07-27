@@ -1,16 +1,20 @@
-## Hi there 👋
+##Hi, I'm Polly
+Biochemistry & Computer Science student at TUM | Bioinformatics, Deep Learning & Structural Biology Enthusiast
 
-<!--
-**Pollysoma/Pollysoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- D Bachelor's student in **Biochemistry** and **Computer Science** at [TUM](https://www.tum.de)
+- Passionate about **AI in drug design** and **protein modeling**
+- I love combining biology + algorithms to solve complex molecular problems
+
+---
+
+### Tech Stack
+
+- **Languages:** Python, R, Java, SQL, Bash  
+- **ML & DL:** PyTorch, NumPy, Pandas, Matplotlib  
+- **Bioinformatics:** AlphaFold, Amber, BUSCO, BLAST, PyMol, VMD  
+- **DevOps:** Docker, Git, GitLab CI/CD, Jenkins  
+- **OS:** Linux, macOS, Windows
