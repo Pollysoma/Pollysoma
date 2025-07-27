@@ -1,5 +1,5 @@
 ## Hi, I'm Polly
-Biochemistry & Computer Science student at TUM | Bioinformatics, Deep Learning & Structural Biology Enthusiast
+Structural Biology, Deep Learning & Chemoinformatics Enthusiast
 
 ---
 
